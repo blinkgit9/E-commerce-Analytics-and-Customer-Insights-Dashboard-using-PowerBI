@@ -15,7 +15,7 @@ The project demonstrates how data visualization can help businesses **make data-
 
 - **Power BI Dashboard File**: [Download the file from the repo.]  
 - **Dataset (Superstore)**: [Kaggle Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
-- **Project Presentation**: [View on Drive]([https://www.canva.com/design/DAF0pKxBJWc/10DhKP7_2M4G6HKSYZ2yXw/view](https://docs.google.com/presentation/d/1eQZnoCXORNqWXvfOuTtpduoBLKB2EZX3/edit?usp=drive_link&ouid=114147753962232854576&rtpof=true&sd=true))  
+- **Project Presentation**: [View on Drive](https://docs.google.com/presentation/d/1eQZnoCXORNqWXvfOuTtpduoBLKB2EZX3/edit?usp=drive_link&ouid=114147753962232854576&rtpof=true&sd=true)  
 
 ---
 
